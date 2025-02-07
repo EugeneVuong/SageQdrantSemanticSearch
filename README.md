@@ -4,7 +4,7 @@
 
 In a .env file,
 `SAMBANOVA_API_KEY=xxxx`.
-Pretend this is working on the edge. This will add as the local multimodal model
+Pretend this is working on the edge. This will act as the local multimodal model
 
 ## Install Required Packages
 
