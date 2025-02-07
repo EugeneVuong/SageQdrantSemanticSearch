@@ -1,0 +1,15 @@
+# for additional pywaggle install options, see: https://github.com/waggle-sensor/pywaggle#installation-guides
+pywaggle[vision]==0.56.0
+langchain==0.3.17
+langchain-core==0.3.34
+langchain-sambanova==0.1.0
+qdrant-client==1.13.2
+sentence-transformers==3.4.1
+pillow==10.4.0
+fastembed==0.5.1
+yolov5==7.0.14
+
+
+
+
+

@@ -1,0 +1,13 @@
+name: "YOLOv5 App"
+version: "0.1.0"
+description: "A YOLOv5 app for object detection using Waggle"
+keywords: ""
+authors: "Eugene Vuong"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
